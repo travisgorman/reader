@@ -1,0 +1,1 @@
+console.error("SyntaxError: /Users/travisgorman/Dropbox/tiy/36/reader/app/scripts/components/readList.js: Unexpected token (12:2) while parsing file: /Users/travisgorman/Dropbox/tiy/36/reader/app/scripts/components/readList.js");
