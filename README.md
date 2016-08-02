@@ -1,6 +1,6 @@
 #Confirming actions
 
-
+![reader](https://s31.postimg.org/w3ua22yrf/Doc_8_2_16_9_08_AM_copy.jpg)
 ##Practice using state with React
 
 * Create a document reader app, 
